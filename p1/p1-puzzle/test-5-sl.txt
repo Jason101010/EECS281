@@ -1,0 +1,11 @@
+2 8 8
+//
+@ab^^abb
+//
+aaaaaaa.
+.bbbbbbb
+^^^^^^^^
+...aa...
+.abbb^^^
+AAAAAAAA
+BBBBBB.?

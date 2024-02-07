@@ -1,0 +1,76 @@
+User paoletti logged in.
+Transaction placed at 80000000000: $1 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $2 from paoletti to mertg at 80000002233.
+Transaction placed at 80000000000: $3 from paoletti to mertg at 80000002237.
+Transaction placed at 80000000000: $4 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $5 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $6 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $7 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $8 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $9 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $10 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $11 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $12 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $13 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $14 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $15 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $16 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $17 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $18 from paoletti to mertg at 80000002239.
+Transaction placed at 80000000000: $19 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $20 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $21 from paoletti to mertg at 80000002234.
+Transaction placed at 80000000000: $22 from paoletti to mertg at 80000002234.
+Transaction executed at 80000002233: $2 from paoletti to mertg.
+Transaction executed at 80000002234: $1 from paoletti to mertg.
+Transaction executed at 80000002234: $4 from paoletti to mertg.
+Transaction executed at 80000002234: $5 from paoletti to mertg.
+Transaction executed at 80000002234: $6 from paoletti to mertg.
+Transaction executed at 80000002234: $7 from paoletti to mertg.
+Transaction executed at 80000002234: $8 from paoletti to mertg.
+Transaction executed at 80000002234: $9 from paoletti to mertg.
+Transaction executed at 80000002234: $10 from paoletti to mertg.
+Transaction executed at 80000002234: $11 from paoletti to mertg.
+Transaction executed at 80000002234: $12 from paoletti to mertg.
+Transaction executed at 80000002234: $13 from paoletti to mertg.
+Transaction executed at 80000002234: $14 from paoletti to mertg.
+Transaction executed at 80000002234: $15 from paoletti to mertg.
+Transaction executed at 80000002234: $16 from paoletti to mertg.
+Transaction executed at 80000002234: $17 from paoletti to mertg.
+Transaction executed at 80000002234: $19 from paoletti to mertg.
+Transaction executed at 80000002234: $20 from paoletti to mertg.
+Transaction executed at 80000002234: $21 from paoletti to mertg.
+Transaction executed at 80000002234: $22 from paoletti to mertg.
+Transaction executed at 80000002237: $3 from paoletti to mertg.
+Transaction executed at 80000002239: $18 from paoletti to mertg.
+Customer paoletti account summary:
+Balance: $99637
+Total # of transactions: 22
+Incoming 0:
+Outgoing 22:
+13: paoletti sent 14 dollars to mertg at 80000002234.
+14: paoletti sent 15 dollars to mertg at 80000002234.
+15: paoletti sent 16 dollars to mertg at 80000002234.
+16: paoletti sent 17 dollars to mertg at 80000002234.
+18: paoletti sent 19 dollars to mertg at 80000002234.
+19: paoletti sent 20 dollars to mertg at 80000002234.
+20: paoletti sent 21 dollars to mertg at 80000002234.
+21: paoletti sent 22 dollars to mertg at 80000002234.
+2: paoletti sent 3 dollars to mertg at 80000002237.
+17: paoletti sent 18 dollars to mertg at 80000002239.
+Customer mertg account summary:
+Balance: $100143
+Total # of transactions: 22
+Incoming 22:
+13: paoletti sent 14 dollars to mertg at 80000002234.
+14: paoletti sent 15 dollars to mertg at 80000002234.
+15: paoletti sent 16 dollars to mertg at 80000002234.
+16: paoletti sent 17 dollars to mertg at 80000002234.
+18: paoletti sent 19 dollars to mertg at 80000002234.
+19: paoletti sent 20 dollars to mertg at 80000002234.
+20: paoletti sent 21 dollars to mertg at 80000002234.
+21: paoletti sent 22 dollars to mertg at 80000002234.
+2: paoletti sent 3 dollars to mertg at 80000002237.
+17: paoletti sent 18 dollars to mertg at 80000002239.
+Outgoing 0:
+281Bank has collected 0 dollars in fees over 2 seconds.

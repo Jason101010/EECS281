@@ -1,0 +1,315 @@
+Round: 1
+Round: 2
+Round: 3
+Created: paoletti0 (distance: 26, speed: 52, health: 1)
+Created: darden1 (distance: 16, speed: 57, health: 1)
+Created: garcia2 (distance: 33, speed: 46, health: 1)
+Created: cris3 (distance: 30, speed: 4, health: 1)
+Created: bing4 (distance: 5, speed: 23, health: 1)
+Created: will5 (distance: 43, speed: 37, health: 1)
+Created: fee6 (distance: 43, speed: 43, health: 1)
+Created: noah7 (distance: 33, speed: 1, health: 1)
+Created: potatobot8 (distance: 50, speed: 13, health: 1)
+Created: paoletti9 (distance: 20, speed: 43, health: 1)
+Created: darden10 (distance: 30, speed: 15, health: 1)
+Created: garcia11 (distance: 28, speed: 13, health: 1)
+Created: cris12 (distance: 9, speed: 7, health: 1)
+Created: bing13 (distance: 18, speed: 52, health: 1)
+Created: will14 (distance: 33, speed: 2, health: 1)
+Created: fee15 (distance: 25, speed: 44, health: 1)
+Created: noah16 (distance: 28, speed: 37, health: 1)
+Created: potatobot17 (distance: 24, speed: 4, health: 1)
+Created: paoletti18 (distance: 21, speed: 42, health: 1)
+Created: darden19 (distance: 10, speed: 28, health: 1)
+Created: garcia20 (distance: 7, speed: 4, health: 1)
+Created: cris21 (distance: 9, speed: 6, health: 1)
+Created: bing22 (distance: 6, speed: 17, health: 1)
+Created: will23 (distance: 23, speed: 30, health: 1)
+Created: fee24 (distance: 46, speed: 20, health: 1)
+Created: noah25 (distance: 10, speed: 10, health: 1)
+Created: potatobot26 (distance: 30, speed: 49, health: 1)
+Created: paoletti27 (distance: 25, speed: 6, health: 1)
+Created: darden28 (distance: 19, speed: 49, health: 1)
+Created: garcia29 (distance: 19, speed: 35, health: 1)
+Created: cris30 (distance: 23, speed: 4, health: 1)
+Created: bing31 (distance: 32, speed: 23, health: 1)
+Created: will32 (distance: 33, speed: 19, health: 1)
+Created: fee33 (distance: 38, speed: 19, health: 1)
+Created: noah34 (distance: 43, speed: 40, health: 1)
+Created: potatobot35 (distance: 5, speed: 40, health: 1)
+Created: paoletti36 (distance: 7, speed: 43, health: 1)
+Created: darden37 (distance: 50, speed: 39, health: 1)
+Created: garcia38 (distance: 19, speed: 45, health: 1)
+Created: cris39 (distance: 2, speed: 58, health: 1)
+Created: bing40 (distance: 32, speed: 43, health: 1)
+Created: will41 (distance: 23, speed: 22, health: 1)
+Created: fee42 (distance: 38, speed: 5, health: 1)
+Created: noah43 (distance: 7, speed: 42, health: 1)
+Created: potatobot44 (distance: 12, speed: 19, health: 1)
+Created: paoletti45 (distance: 47, speed: 10, health: 1)
+Created: darden46 (distance: 46, speed: 36, health: 1)
+Created: garcia47 (distance: 2, speed: 36, health: 1)
+Created: cris48 (distance: 31, speed: 49, health: 1)
+Created: bing49 (distance: 32, speed: 21, health: 1)
+Created: JamesDuderstadt (distance: 20, speed: 10, health: 20)
+Destroyed: bing13 (distance: 18, speed: 52, health: 0)
+Destroyed: bing22 (distance: 6, speed: 17, health: 0)
+Destroyed: bing4 (distance: 5, speed: 23, health: 0)
+Destroyed: bing40 (distance: 32, speed: 43, health: 0)
+Destroyed: cris39 (distance: 2, speed: 58, health: 0)
+Destroyed: cris48 (distance: 31, speed: 49, health: 0)
+Destroyed: darden1 (distance: 16, speed: 57, health: 0)
+Destroyed: darden19 (distance: 10, speed: 28, health: 0)
+Destroyed: darden28 (distance: 19, speed: 49, health: 0)
+Destroyed: fee15 (distance: 25, speed: 44, health: 0)
+Destroyed: garcia2 (distance: 33, speed: 46, health: 0)
+Destroyed: garcia29 (distance: 19, speed: 35, health: 0)
+Destroyed: garcia38 (distance: 19, speed: 45, health: 0)
+Destroyed: garcia47 (distance: 2, speed: 36, health: 0)
+Destroyed: noah16 (distance: 28, speed: 37, health: 0)
+Destroyed: noah43 (distance: 7, speed: 42, health: 0)
+Destroyed: paoletti0 (distance: 26, speed: 52, health: 0)
+Destroyed: paoletti18 (distance: 21, speed: 42, health: 0)
+Destroyed: paoletti36 (distance: 7, speed: 43, health: 0)
+Destroyed: paoletti9 (distance: 20, speed: 43, health: 0)
+Destroyed: potatobot26 (distance: 30, speed: 49, health: 0)
+Destroyed: potatobot35 (distance: 5, speed: 40, health: 0)
+Destroyed: potatobot44 (distance: 12, speed: 19, health: 0)
+Destroyed: will23 (distance: 23, speed: 30, health: 0)
+Destroyed: bing31 (distance: 32, speed: 23, health: 0)
+Destroyed: bing49 (distance: 32, speed: 21, health: 0)
+Destroyed: cris12 (distance: 9, speed: 7, health: 0)
+Destroyed: cris21 (distance: 9, speed: 6, health: 0)
+Destroyed: darden37 (distance: 50, speed: 39, health: 0)
+Destroyed: darden46 (distance: 46, speed: 36, health: 0)
+Destroyed: fee6 (distance: 43, speed: 43, health: 0)
+Destroyed: garcia20 (distance: 7, speed: 4, health: 0)
+Destroyed: noah25 (distance: 10, speed: 10, health: 0)
+Destroyed: noah34 (distance: 43, speed: 40, health: 0)
+Destroyed: will32 (distance: 33, speed: 19, health: 0)
+Destroyed: will41 (distance: 23, speed: 22, health: 0)
+Destroyed: will5 (distance: 43, speed: 37, health: 0)
+Destroyed: darden10 (distance: 30, speed: 15, health: 0)
+Destroyed: fee24 (distance: 46, speed: 20, health: 0)
+Destroyed: fee33 (distance: 38, speed: 19, health: 0)
+Destroyed: garcia11 (distance: 28, speed: 13, health: 0)
+Destroyed: JamesDuderstadt (distance: 20, speed: 10, health: 0)
+Destroyed: potatobot8 (distance: 50, speed: 13, health: 0)
+Destroyed: paoletti27 (distance: 25, speed: 6, health: 0)
+Destroyed: paoletti45 (distance: 47, speed: 10, health: 0)
+Destroyed: cris30 (distance: 23, speed: 4, health: 0)
+Destroyed: potatobot17 (distance: 24, speed: 4, health: 0)
+Destroyed: cris3 (distance: 30, speed: 4, health: 0)
+Destroyed: fee42 (distance: 38, speed: 5, health: 0)
+Destroyed: will14 (distance: 33, speed: 2, health: 0)
+Destroyed: noah7 (distance: 33, speed: 1, health: 0)
+VICTORY IN ROUND 3! noah7 was the last zombie.
+Zombies still active: 0
+First zombies killed:
+bing13 1
+bing22 2
+bing4 3
+bing40 4
+cris39 5
+cris48 6
+darden1 7
+darden19 8
+darden28 9
+fee15 10
+garcia2 11
+garcia29 12
+garcia38 13
+garcia47 14
+noah16 15
+noah43 16
+paoletti0 17
+paoletti18 18
+paoletti36 19
+paoletti9 20
+potatobot26 21
+potatobot35 22
+potatobot44 23
+will23 24
+bing31 25
+bing49 26
+cris12 27
+cris21 28
+darden37 29
+darden46 30
+fee6 31
+garcia20 32
+noah25 33
+noah34 34
+will32 35
+will41 36
+will5 37
+darden10 38
+fee24 39
+fee33 40
+garcia11 41
+JamesDuderstadt 42
+potatobot8 43
+paoletti27 44
+paoletti45 45
+cris30 46
+potatobot17 47
+cris3 48
+fee42 49
+will14 50
+noah7 51
+Last zombies killed:
+noah7 51
+will14 50
+fee42 49
+cris3 48
+potatobot17 47
+cris30 46
+paoletti45 45
+paoletti27 44
+potatobot8 43
+JamesDuderstadt 42
+garcia11 41
+fee33 40
+fee24 39
+darden10 38
+will5 37
+will41 36
+will32 35
+noah34 34
+noah25 33
+garcia20 32
+fee6 31
+darden46 30
+darden37 29
+cris21 28
+cris12 27
+bing49 26
+bing31 25
+will23 24
+potatobot44 23
+potatobot35 22
+potatobot26 21
+paoletti9 20
+paoletti36 19
+paoletti18 18
+paoletti0 17
+noah43 16
+noah16 15
+garcia47 14
+garcia38 13
+garcia29 12
+garcia2 11
+fee15 10
+darden28 9
+darden19 8
+darden1 7
+cris48 6
+cris39 5
+bing40 4
+bing4 3
+bing22 2
+bing13 1
+Most active zombies:
+JamesDuderstadt 1
+bing13 1
+bing22 1
+bing31 1
+bing4 1
+bing40 1
+bing49 1
+cris12 1
+cris21 1
+cris3 1
+cris30 1
+cris39 1
+cris48 1
+darden1 1
+darden10 1
+darden19 1
+darden28 1
+darden37 1
+darden46 1
+fee15 1
+fee24 1
+fee33 1
+fee42 1
+fee6 1
+garcia11 1
+garcia2 1
+garcia20 1
+garcia29 1
+garcia38 1
+garcia47 1
+noah16 1
+noah25 1
+noah34 1
+noah43 1
+noah7 1
+paoletti0 1
+paoletti18 1
+paoletti27 1
+paoletti36 1
+paoletti45 1
+paoletti9 1
+potatobot17 1
+potatobot26 1
+potatobot35 1
+potatobot44 1
+potatobot8 1
+will14 1
+will23 1
+will32 1
+will41 1
+will5 1
+Least active zombies:
+JamesDuderstadt 1
+bing13 1
+bing22 1
+bing31 1
+bing4 1
+bing40 1
+bing49 1
+cris12 1
+cris21 1
+cris3 1
+cris30 1
+cris39 1
+cris48 1
+darden1 1
+darden10 1
+darden19 1
+darden28 1
+darden37 1
+darden46 1
+fee15 1
+fee24 1
+fee33 1
+fee42 1
+fee6 1
+garcia11 1
+garcia2 1
+garcia20 1
+garcia29 1
+garcia38 1
+garcia47 1
+noah16 1
+noah25 1
+noah34 1
+noah43 1
+noah7 1
+paoletti0 1
+paoletti18 1
+paoletti27 1
+paoletti36 1
+paoletti45 1
+paoletti9 1
+potatobot17 1
+potatobot26 1
+potatobot35 1
+potatobot44 1
+potatobot8 1
+will14 1
+will23 1
+will32 1
+will41 1
+will5 1

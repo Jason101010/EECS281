@@ -1,0 +1,35 @@
+Failed to log in paolettiii.
+User paoletti logged in.
+Failed to log in paoletti.
+User paoletti logged in.
+User paoletti logged in.
+Failed to log out pao.
+Failed to log out paoletti.
+Failed to log out paoletti.
+Failed to log out mertg.
+User paoletti logged out.
+At the time of execution, sender and/or recipient have not registered.
+User paoletti logged in.
+Transaction placed at 80000000000: $2000 from paoletti to paoletti at 80000002234.
+At the time of execution, sender and/or recipient have not registered.
+Sender pao does not exist.
+Recipient mer does not exist.
+Failed to log out pao.
+Failed to log out paoletti.
+Failed to log out paoletti.
+At the time of execution, sender and/or recipient have not registered.
+Failed to log in paoletti.
+User paoletti logged in.
+User paoletti logged in.
+At the time of execution, sender and/or recipient have not registered.
+Transaction executed at 80000002234: $2000 from paoletti to paoletti.
+Transaction placed at 200000000002: $50000 from paoletti to mertg at 200000002235.
+Transaction placed at 200000000002: $20000 from paoletti to mertg at 200000002234.
+Transaction executed at 200000002234: $20000 from paoletti to mertg.
+Insufficient funds to process transaction 1.
+Transaction placed at 210000000002: $1 from paoletti to mertg at 210000002235.
+Transaction executed at 210000002235: $1 from paoletti to mertg.
+Summary of [70000000000, 70001000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
+Summary of [220000000000, 220001000000):
+There were a total of 0 transactions, 281Bank has collected 0 dollars in fees.
